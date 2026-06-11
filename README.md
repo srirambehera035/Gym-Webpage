@@ -3,6 +3,12 @@
 A modern, responsive, and user-friendly fitness website designed to promote gym services, membership plans, and healthy lifestyles. The website provides an engaging user experience with an attractive interface, smooth navigation, and mobile-friendly design.
 
 Built using HTML5 and CSS3, the project focuses on responsive design, modern UI/UX principles, smooth navigation, and visually appealing fitness-themed layouts. The website is optimized for desktop, tablet, and mobile devices to ensure a seamless user experience across all screen sizes.
+## 🚀 Live Demo
+
+👉 https://srirambehera035.github.io/Gym-Webpage/
+
+## Project preview
+
 
 ## Features
 - 🏋️ Gym Showcase
