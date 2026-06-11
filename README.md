@@ -7,9 +7,6 @@ Built using HTML5 and CSS3, the project focuses on responsive design, modern UI/
 
 👉 https://srirambehera035.github.io/Gym-Webpage/
 
-## Project preview
-
-
 ## Features
 - 🏋️ Gym Showcase
     * Hero section with motivational fitness message
